@@ -10,7 +10,7 @@ Projeto de estatística voltado para conceitos como probabilidade e amostragem
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Curso de Estatistica Parte 2**
-| :label: Tecnologias | python (pandas, seaborn, scipy)
+| :label: Tecnologias | python, pandas, seaborn, scipy
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/estatistica_2.png#vitrinedev)
